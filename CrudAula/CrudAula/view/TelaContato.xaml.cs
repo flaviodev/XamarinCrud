@@ -53,7 +53,7 @@ namespace CrudAula.view
             {
                 using (var dados = new ContatoRepository())
                 {
-                    //dados.Delete(contato);
+                    dados.Delete(contato);
                     this.Lista.ItemsSource = dados.Listar();
                 }
 

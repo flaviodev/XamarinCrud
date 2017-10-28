@@ -16,7 +16,7 @@ namespace CrudAula.model
         public ContatoRepository()
         {
             var config = DependencyService.Get<IConfig>();
-            _conexao = new SQLite.Net.SQLiteConnection(config.Plataforma, System.IO.Path.Combine(config.DiretorioDB, "banco.db3"));
+            _conexao = new SQLite.Net.SQLiteConnection(config.Plataforma, System.IO.Path.Combine(config.DiretorioDB, "banco2.db3"));
             _conexao.CreateTable<Contato>();
         }
 
