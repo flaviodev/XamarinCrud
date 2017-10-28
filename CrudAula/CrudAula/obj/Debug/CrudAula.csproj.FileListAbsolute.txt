@@ -15,3 +15,6 @@ c:\users\lab18m01\source\repos\CrudAula\CrudAula\CrudAula\obj\Debug\CrudAula.vie
 c:\users\lab18m01\source\repos\CrudAula\CrudAula\CrudAula\obj\Debug\CrudAula.dll
 c:\users\lab18m01\source\repos\CrudAula\CrudAula\CrudAula\obj\Debug\CrudAula.pdb
 c:\users\lab18m01\source\repos\CrudAula\CrudAula\CrudAula\obj\Debug\CrudAula.csprojResolveAssemblyReference.cache
+c:\users\lab18m01\source\repos\CrudAula\CrudAula\CrudAula\bin\Debug\Mono.Android.dll
+c:\users\lab18m01\source\repos\CrudAula\CrudAula\CrudAula\bin\Debug\Mono.Android.pdb
+c:\users\lab18m01\source\repos\CrudAula\CrudAula\CrudAula\bin\Debug\Mono.Android.xml

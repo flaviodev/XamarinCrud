@@ -10,6 +10,7 @@
             <Button x:Name="Salvar" Text="Salvar" Clicked="SalvarClicked" />
 
             <ListView x:Name="Lista"></ListView>
+            <Button x:Name="Excluir" Text="Excluir" Clicked="ExcluirClicked" />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

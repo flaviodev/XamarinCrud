@@ -15,7 +15,7 @@ namespace CrudAula.model
 
         public override string ToString()
         {
-            return string.Format("Nome={0}, Email={1}, Telefone={2}", Nome, Email, Telefone);
+            return string.Format("{0} [{1}, {2}]", Nome, Email, Telefone);
         }
     }
 }

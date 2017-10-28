@@ -8,6 +8,8 @@ using System.Threading.Tasks;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 using SQLite.Net.Attributes;
+using Java.IO;
+using Android.Util;
 
 namespace CrudAula.view
 {
@@ -40,8 +42,23 @@ namespace CrudAula.view
                 dados.Insert(contato);
                 this.Lista.ItemsSource = dados.Listar();
             }
+        }
 
+        protected void ExcluirClicked(Object sender, EventArgs e)
+        {
+            Contato contato = (Contato) Lista.SelectedItem;    
+
+            if (contato !=null)
+            {
+                using (var dados = new ContatoRepository())
+                {
+                    dados.Delete(contato);
+                    this.Lista.ItemsSource = dados.Listar();
+                }
+
+            }
 
         }
+
     }
 }

@@ -30,7 +30,7 @@ namespace CrudAula.model
 
         public void Delete(Contato contato)
         {
-            _conexao.Delete(contato);
+            _conexao.Delete(contato.Id);
         }
 
         public List<Contato> Listar()
@@ -46,6 +46,7 @@ namespace CrudAula.model
 
         public void Dispose()
         {
+            _conexao.Dispose();
           //  throw new NotImplementedException();
         }
     }
