@@ -14,3 +14,4 @@ c:\users\lab18m01\source\repos\CrudAula\CrudAula\CrudAula\obj\Debug\CrudAula.App
 c:\users\lab18m01\source\repos\CrudAula\CrudAula\CrudAula\obj\Debug\CrudAula.view.TelaContato.xaml.g.cs
 c:\users\lab18m01\source\repos\CrudAula\CrudAula\CrudAula\obj\Debug\CrudAula.dll
 c:\users\lab18m01\source\repos\CrudAula\CrudAula\CrudAula\obj\Debug\CrudAula.pdb
+c:\users\lab18m01\source\repos\CrudAula\CrudAula\CrudAula\obj\Debug\CrudAula.csprojResolveAssemblyReference.cache
