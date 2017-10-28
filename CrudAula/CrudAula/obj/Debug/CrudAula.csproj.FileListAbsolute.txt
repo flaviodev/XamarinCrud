@@ -1,0 +1,16 @@
+c:\users\lab18m01\source\repos\CrudAula\CrudAula\CrudAula\bin\Debug\CrudAula.dll
+c:\users\lab18m01\source\repos\CrudAula\CrudAula\CrudAula\bin\Debug\CrudAula.pdb
+c:\users\lab18m01\source\repos\CrudAula\CrudAula\CrudAula\bin\Debug\SQLite.Net.dll
+c:\users\lab18m01\source\repos\CrudAula\CrudAula\CrudAula\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\lab18m01\source\repos\CrudAula\CrudAula\CrudAula\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\lab18m01\source\repos\CrudAula\CrudAula\CrudAula\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\lab18m01\source\repos\CrudAula\CrudAula\CrudAula\bin\Debug\Xamarin.Forms.Core.pdb
+c:\users\lab18m01\source\repos\CrudAula\CrudAula\CrudAula\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\lab18m01\source\repos\CrudAula\CrudAula\CrudAula\bin\Debug\Xamarin.Forms.Xaml.pdb
+c:\users\lab18m01\source\repos\CrudAula\CrudAula\CrudAula\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\lab18m01\source\repos\CrudAula\CrudAula\CrudAula\obj\Debug\CrudAula.csproj.CoreCompileInputs.cache
+c:\users\lab18m01\source\repos\CrudAula\CrudAula\CrudAula\obj\Debug\CrudAula.MainPage.xaml.g.cs
+c:\users\lab18m01\source\repos\CrudAula\CrudAula\CrudAula\obj\Debug\CrudAula.App.xaml.g.cs
+c:\users\lab18m01\source\repos\CrudAula\CrudAula\CrudAula\obj\Debug\CrudAula.view.TelaContato.xaml.g.cs
+c:\users\lab18m01\source\repos\CrudAula\CrudAula\CrudAula\obj\Debug\CrudAula.dll
+c:\users\lab18m01\source\repos\CrudAula\CrudAula\CrudAula\obj\Debug\CrudAula.pdb
