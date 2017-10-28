@@ -41,23 +41,31 @@ namespace CrudAula.view
             {
                 dados.Insert(contato);
                 this.Lista.ItemsSource = dados.Listar();
+                this.LimparCampos();
             }
         }
 
         protected void ExcluirClicked(Object sender, EventArgs e)
         {
-            Contato contato = (Contato) Lista.SelectedItem;    
+            Contato contato = (Contato) Lista.SelectedItem;
 
             if (contato !=null)
             {
                 using (var dados = new ContatoRepository())
                 {
-                    dados.Delete(contato);
+                    //dados.Delete(contato);
                     this.Lista.ItemsSource = dados.Listar();
                 }
 
             }
 
+        }
+
+        private void LimparCampos()
+        {
+            this.Nome.Text = "";
+            this.Email.Text = "";
+            this.Telefone.Text = "";
         }
 
     }
