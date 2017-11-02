@@ -4,13 +4,17 @@
              x:Class="CrudAula.view.TelaContato">
     <ContentPage.Content>
         <StackLayout>
-            <Entry x:Name="Nome" Placeholder="Digite o nome"/>
-            <Entry x:Name="Email" Placeholder="Digite o e-mail"/>
-            <Entry x:Name="Telefone" Placeholder="Digite o telefone" />
-            <Button x:Name="Salvar" Text="Salvar" Clicked="SalvarClicked" />
 
-            <ListView x:Name="Lista"></ListView>
-            <Button x:Name="Excluir" Text="Excluir" Clicked="ExcluirClicked" />
+            <Label Text="Nome: "/>
+            <Entry x:Name="Nome" Placeholder="Digite o nome"/>
+
+            <Label Text="e-mail: "/>
+            <Entry x:Name="Email" Placeholder="Digite o e-mail"/>
+
+            <Label Text="Telefone: "/>
+            <Entry x:Name="Telefone" Placeholder="Digite o telefone" />
+
+            <Button x:Name="Salvar" Text="Salvar" Clicked="SalvarClicked" />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

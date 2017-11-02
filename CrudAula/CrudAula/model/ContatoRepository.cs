@@ -4,7 +4,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Xamarin.Forms;
-using Android.Util;
 
 
 namespace CrudAula.model
@@ -32,7 +31,6 @@ namespace CrudAula.model
 
         public void Delete(Contato contato)
         {
-            Log.Info("Repository", "Delete");
             _conexao.Delete(contato);
         }
 

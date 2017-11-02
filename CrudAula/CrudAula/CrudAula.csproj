@@ -45,8 +45,14 @@
     <Compile Include="model\ContatoRepository.cs" />
     <Compile Include="model\IConfig.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="view\TelaContato.xaml.cs">
-      <DependentUpon>TelaContato.xaml</DependentUpon>
+    <Compile Include="view\ConsultaContato.xaml.cs">
+      <DependentUpon>ConsultaContato.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="view\ListaContato.xaml.cs">
+      <DependentUpon>ListaContato.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="view\AlteraContato.xaml.cs">
+      <DependentUpon>AlteraContato.xaml</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
@@ -83,7 +89,19 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="view\TelaContato.xaml">
+    <EmbeddedResource Include="view\AlteraContato.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="view\ListaContato.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="view\ConsultaContato.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
       <SubType>Designer</SubType>
     </EmbeddedResource>

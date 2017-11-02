@@ -13,7 +13,7 @@ namespace CrudAula
         {
             InitializeComponent();
 
-            MainPage = new CrudAula.view.TelaContato();
+            MainPage = new NavigationPage(new CrudAula.view.ListaContato());
         }
 
         protected override void OnStart()
