@@ -77,9 +77,10 @@ namespace CrudAula.view
             this.Cep.Text = contato.Cep;
         }
 
+        /*
         private void BuscarCep_Clicked(object sender, EventArgs e)
         {
 
-        }
+        }*/
     }
 }
