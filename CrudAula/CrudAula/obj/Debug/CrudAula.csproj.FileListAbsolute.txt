@@ -17,13 +17,6 @@ c:\users\lab18m01\source\repos\CrudAula\CrudAula\CrudAula\obj\Debug\CrudAula.App
 c:\users\lab18m01\source\repos\CrudAula\CrudAula\CrudAula\obj\Debug\CrudAula.view.TelaContato.xaml.g.cs
 c:\users\lab18m01\source\repos\CrudAula\CrudAula\CrudAula\obj\Debug\CrudAula.dll
 c:\users\lab18m01\source\repos\CrudAula\CrudAula\CrudAula\obj\Debug\CrudAula.pdb
-D:\Source\XamarinCrud\CrudAula\CrudAula\obj\Debug\CrudAula.csproj.CoreCompileInputs.cache
-D:\Source\XamarinCrud\CrudAula\CrudAula\obj\Debug\CrudAula.MainPage.xaml.g.cs
-D:\Source\XamarinCrud\CrudAula\CrudAula\obj\Debug\CrudAula.App.xaml.g.cs
-D:\Source\XamarinCrud\CrudAula\CrudAula\obj\Debug\CrudAula.view.AlteraContato.xaml.g.cs
-D:\Source\XamarinCrud\CrudAula\CrudAula\obj\Debug\CrudAula.view.ListaContato.xaml.g.cs
-D:\Source\XamarinCrud\CrudAula\CrudAula\obj\Debug\CrudAula.view.ConsultaContato.xaml.g.cs
-D:\Source\XamarinCrud\CrudAula\CrudAula\obj\Debug\CrudAula.csprojResolveAssemblyReference.cache
 D:\Source\XamarinCrud\CrudAula\CrudAula\bin\Debug\CrudAula.dll
 D:\Source\XamarinCrud\CrudAula\CrudAula\bin\Debug\CrudAula.pdb
 D:\Source\XamarinCrud\CrudAula\CrudAula\bin\Debug\SQLite.Net.dll
@@ -34,5 +27,11 @@ D:\Source\XamarinCrud\CrudAula\CrudAula\bin\Debug\Xamarin.Forms.Core.pdb
 D:\Source\XamarinCrud\CrudAula\CrudAula\bin\Debug\Xamarin.Forms.Core.xml
 D:\Source\XamarinCrud\CrudAula\CrudAula\bin\Debug\Xamarin.Forms.Xaml.pdb
 D:\Source\XamarinCrud\CrudAula\CrudAula\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Source\XamarinCrud\CrudAula\CrudAula\obj\Debug\CrudAula.csproj.CoreCompileInputs.cache
+D:\Source\XamarinCrud\CrudAula\CrudAula\obj\Debug\CrudAula.MainPage.xaml.g.cs
+D:\Source\XamarinCrud\CrudAula\CrudAula\obj\Debug\CrudAula.App.xaml.g.cs
+D:\Source\XamarinCrud\CrudAula\CrudAula\obj\Debug\CrudAula.view.AlteraContato.xaml.g.cs
+D:\Source\XamarinCrud\CrudAula\CrudAula\obj\Debug\CrudAula.view.ListaContato.xaml.g.cs
+D:\Source\XamarinCrud\CrudAula\CrudAula\obj\Debug\CrudAula.view.ConsultaContato.xaml.g.cs
 D:\Source\XamarinCrud\CrudAula\CrudAula\obj\Debug\CrudAula.dll
 D:\Source\XamarinCrud\CrudAula\CrudAula\obj\Debug\CrudAula.pdb
