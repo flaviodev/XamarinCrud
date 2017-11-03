@@ -29,11 +29,20 @@ namespace CrudAula.view
             this.Nome.Text = contato.Nome;
             this.Email.Text = contato.Email;
             this.Telefone.Text = contato.Email;
+
+            this.Rua.Text = contato.Rua;
+            this.Numero.Text = contato.Numero.ToString();
+            this.Complemento.Text = contato.Complemento;
+            this.Bairro.Text = contato.Bairro;
+            this.Cidade.Text = contato.Cidade;
+            this.Estado.Text = contato.Estado;
+            this.Cep.Text = contato.Cep;
+
         }
 
         private void EditarClicked(object sender, EventArgs e)
         {
-            Navigation.PushAsync(new TelaContato(_contato, false));
+            Navigation.PushAsync(new AlteraContato(_contato, false));
         }
 
         private void ExcluirClicked(object sender, EventArgs e)

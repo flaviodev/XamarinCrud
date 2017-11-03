@@ -30,7 +30,7 @@ namespace CrudAula.view
 
         private void Button_Clicked(object sender, EventArgs e)
         {
-            Navigation.PushAsync(new TelaContato(new Contato(), true));
+            Navigation.PushAsync(new AlteraContato(new Contato(), true));
         }
 
 

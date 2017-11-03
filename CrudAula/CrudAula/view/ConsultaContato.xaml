@@ -14,7 +14,29 @@
             <Label Text="Telefone: "/>
             <Entry x:Name="Telefone"  IsEnabled="False" />
 
+            <Label Text="CEP: "/>
+            <Entry x:Name="Cep"  IsEnabled="False" />
+
+            <Label Text="Rua: "/>
+            <Entry x:Name="Rua"  IsEnabled="False" />
+
+            <Label Text="Número: "/>
+            <Entry x:Name="Numero"  IsEnabled="False" />
+
+            <Label Text="Complemento: "/>
+            <Entry x:Name="Complemento"  IsEnabled="False" />
+
+            <Label Text="Bairro: "/>
+            <Entry x:Name="Bairro"  IsEnabled="False" />
+
+            <Label Text="Cidade: "/>
+            <Entry x:Name="Cidade"  IsEnabled="False" />
+
+            <Label Text="Estado: "/>
+            <Entry x:Name="Estado"  IsEnabled="False" />
+
             <Button x:Name="Edita" Text="Editar" Clicked="EditarClicked" />
+
             <Button x:Name="Exclui" Text="Excluir" Clicked="ExcluirClicked" />
         </StackLayout>
     </ContentPage.Content>
